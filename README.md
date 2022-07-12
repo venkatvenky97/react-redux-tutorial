@@ -1,7 +1,6 @@
 # Redux-tutorial
 
 
-## Available Scripts
 
 
 
